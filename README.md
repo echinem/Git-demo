@@ -3,4 +3,4 @@ This is my repository in Github which I'll be using to learn the basics of Git &
 <br>
 <h2>Author - Himangi Mishra [echinem]</h2> 
 <br>
-<p>H&M was taken so I chose to go with 'echinem' just like 'eminem' <i>(god)</i></p>
+<p>H&M was taken so I chose to go with 'echinem' just like 'eminem' <i><b>(god)</b></i></p>
