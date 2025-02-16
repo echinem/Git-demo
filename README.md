@@ -1,3 +1,6 @@
 # Git-demo
 This is my repository in Github which I'll be using to learn the basics of Git &lt;3
-Author - Himangi Mishra [echinem]; H&M is taken so I chose to go with 'echinem' just like 'eminem' (god)
+<br>
+<h2>Author - Himangi Mishra [echinem]</h2> 
+<br>
+<p>H&M was taken so I chose to go with 'echinem' just like 'eminem' <i>(god)</i></p>
